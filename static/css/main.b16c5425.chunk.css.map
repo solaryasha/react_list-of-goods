@@ -1,0 +1,1 @@
+{"version":3,"sources":["Things.module.css"],"names":[],"mappings":"AAAA,oBACE,oBAAqB,CAErB,YACF","file":"main.b16c5425.chunk.css","sourcesContent":[".list {\n  list-style-type: none;\n\n  height: 200px;\n}\n"]}
